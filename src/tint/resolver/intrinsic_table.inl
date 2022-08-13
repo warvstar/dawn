@@ -3297,7 +3297,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [68] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [69] */
@@ -3332,7 +3332,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [75] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [76] */
@@ -3362,7 +3362,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [81] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [82] */
@@ -3392,12 +3392,12 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [87] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [88] */
     /* usage */ ParameterUsage::kLevel,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [89] */
@@ -3422,7 +3422,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [93] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [94] */
@@ -3512,7 +3512,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [111] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [112] */
@@ -3572,7 +3572,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [123] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [124] */
@@ -3632,7 +3632,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [135] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [136] */
@@ -3747,7 +3747,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [158] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [159] */
@@ -3772,7 +3772,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [163] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [164] */
@@ -3897,7 +3897,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [188] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [189] */
@@ -3997,7 +3997,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [208] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [209] */
@@ -4047,7 +4047,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [218] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [219] */
@@ -4122,7 +4122,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [233] */
     /* usage */ ParameterUsage::kLevel,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [234] */
@@ -4147,7 +4147,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [238] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [239] */
@@ -4247,7 +4247,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [258] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [259] */
@@ -4272,7 +4272,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [263] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [264] */
@@ -4297,7 +4297,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [268] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [269] */
@@ -4347,12 +4347,12 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [278] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [279] */
     /* usage */ ParameterUsage::kLevel,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [280] */
@@ -4372,7 +4372,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [283] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [284] */
@@ -4422,12 +4422,12 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [293] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [294] */
     /* usage */ ParameterUsage::kLevel,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [295] */
@@ -4467,7 +4467,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [302] */
     /* usage */ ParameterUsage::kLevel,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [303] */
@@ -4487,7 +4487,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [306] */
     /* usage */ ParameterUsage::kLevel,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [307] */
@@ -4567,7 +4567,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [322] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [323] */
@@ -4607,7 +4607,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [330] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [331] */
@@ -4667,7 +4667,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [342] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [343] */
@@ -4727,7 +4727,7 @@ constexpr ParameterInfo kParameters[] = {
   {
     /* [354] */
     /* usage */ ParameterUsage::kArrayIndex,
-    /* matcher indices */ &kMatcherIndices[34],
+    /* matcher indices */ &kMatcherIndices[1],
   },
   {
     /* [355] */
@@ -7984,7 +7984,7 @@ constexpr TemplateTypeInfo kTemplateTypes[] = {
   },
   {
     /* [1] */
-    /* name */ "S",
+    /* name */ "C",
     /* matcher index */ 68,
   },
   {
@@ -8531,9 +8531,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [30] */
     /* num parameters */ 4,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[351],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -8543,9 +8543,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [31] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[155],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -8591,9 +8591,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [35] */
     /* num parameters */ 4,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[339],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -8627,9 +8627,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [38] */
     /* num parameters */ 4,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[327],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -8639,9 +8639,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [39] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[260],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -8663,9 +8663,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [41] */
     /* num parameters */ 4,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[319],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -8879,9 +8879,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [59] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[255],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -8891,9 +8891,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [60] */
     /* num parameters */ 6,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[90],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -8939,9 +8939,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [64] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[280],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -8951,9 +8951,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [65] */
     /* num parameters */ 4,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[299],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -8963,9 +8963,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [66] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[230],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -8975,9 +8975,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [67] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[290],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -8987,9 +8987,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [68] */
     /* num parameters */ 6,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[84],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -8999,9 +8999,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [69] */
     /* num parameters */ 4,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[303],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -9011,9 +9011,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [70] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[275],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -9923,9 +9923,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [146] */
     /* num parameters */ 6,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[132],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -9935,9 +9935,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [147] */
     /* num parameters */ 7,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[65],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -9983,9 +9983,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [151] */
     /* num parameters */ 6,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[108],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -10019,9 +10019,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [154] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[235],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -10031,9 +10031,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [155] */
     /* num parameters */ 6,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[72],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -10079,9 +10079,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [159] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[205],
     /* return matcher indices */ &kMatcherIndices[126],
@@ -10619,9 +10619,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [204] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[265],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -10631,9 +10631,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [205] */
     /* num parameters */ 6,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[120],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -10655,9 +10655,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [207] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[215],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -10691,9 +10691,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [210] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[185],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -10703,9 +10703,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [211] */
     /* num parameters */ 6,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[78],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -10727,9 +10727,9 @@ constexpr OverloadInfo kOverloads[] = {
   {
     /* [213] */
     /* num parameters */ 5,
-    /* num template types */ 0,
+    /* num template types */ 1,
     /* num template numbers */ 0,
-    /* template types */ &kTemplateTypes[27],
+    /* template types */ &kTemplateTypes[1],
     /* template numbers */ &kTemplateNumbers[10],
     /* parameters */ &kParameters[160],
     /* return matcher indices */ &kMatcherIndices[4],
@@ -14403,18 +14403,18 @@ constexpr IntrinsicInfo kBuiltins[] = {
     /* fn textureSample(texture: texture_1d<f32>, sampler: sampler, coords: f32) -> vec4<f32> */
     /* fn textureSample(texture: texture_2d<f32>, sampler: sampler, coords: vec2<f32>) -> vec4<f32> */
     /* fn textureSample(texture: texture_2d<f32>, sampler: sampler, coords: vec2<f32>, @const offset: vec2<i32>) -> vec4<f32> */
-    /* fn textureSample(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: i32) -> vec4<f32> */
-    /* fn textureSample(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: i32, @const offset: vec2<i32>) -> vec4<f32> */
+    /* fn textureSample<C : iu32>(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: C) -> vec4<f32> */
+    /* fn textureSample<C : iu32>(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: C, @const offset: vec2<i32>) -> vec4<f32> */
     /* fn textureSample(texture: texture_3d<f32>, sampler: sampler, coords: vec3<f32>) -> vec4<f32> */
     /* fn textureSample(texture: texture_3d<f32>, sampler: sampler, coords: vec3<f32>, @const offset: vec3<i32>) -> vec4<f32> */
     /* fn textureSample(texture: texture_cube<f32>, sampler: sampler, coords: vec3<f32>) -> vec4<f32> */
-    /* fn textureSample(texture: texture_cube_array<f32>, sampler: sampler, coords: vec3<f32>, array_index: i32) -> vec4<f32> */
+    /* fn textureSample<C : iu32>(texture: texture_cube_array<f32>, sampler: sampler, coords: vec3<f32>, array_index: C) -> vec4<f32> */
     /* fn textureSample(texture: texture_depth_2d, sampler: sampler, coords: vec2<f32>) -> f32 */
     /* fn textureSample(texture: texture_depth_2d, sampler: sampler, coords: vec2<f32>, @const offset: vec2<i32>) -> f32 */
-    /* fn textureSample(texture: texture_depth_2d_array, sampler: sampler, coords: vec2<f32>, array_index: i32) -> f32 */
-    /* fn textureSample(texture: texture_depth_2d_array, sampler: sampler, coords: vec2<f32>, array_index: i32, @const offset: vec2<i32>) -> f32 */
+    /* fn textureSample<C : iu32>(texture: texture_depth_2d_array, sampler: sampler, coords: vec2<f32>, array_index: C) -> f32 */
+    /* fn textureSample<C : iu32>(texture: texture_depth_2d_array, sampler: sampler, coords: vec2<f32>, array_index: C, @const offset: vec2<i32>) -> f32 */
     /* fn textureSample(texture: texture_depth_cube, sampler: sampler, coords: vec3<f32>) -> f32 */
-    /* fn textureSample(texture: texture_depth_cube_array, sampler: sampler, coords: vec3<f32>, array_index: i32) -> f32 */
+    /* fn textureSample<C : iu32>(texture: texture_depth_cube_array, sampler: sampler, coords: vec3<f32>, array_index: C) -> f32 */
     /* num overloads */ 15,
     /* overloads */ &kOverloads[27],
   },
@@ -14422,12 +14422,12 @@ constexpr IntrinsicInfo kBuiltins[] = {
     /* [91] */
     /* fn textureSampleBias(texture: texture_2d<f32>, sampler: sampler, coords: vec2<f32>, bias: f32) -> vec4<f32> */
     /* fn textureSampleBias(texture: texture_2d<f32>, sampler: sampler, coords: vec2<f32>, bias: f32, @const offset: vec2<i32>) -> vec4<f32> */
-    /* fn textureSampleBias(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: i32, bias: f32) -> vec4<f32> */
-    /* fn textureSampleBias(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: i32, bias: f32, @const offset: vec2<i32>) -> vec4<f32> */
+    /* fn textureSampleBias<C : iu32>(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: C, bias: f32) -> vec4<f32> */
+    /* fn textureSampleBias<C : iu32>(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: C, bias: f32, @const offset: vec2<i32>) -> vec4<f32> */
     /* fn textureSampleBias(texture: texture_3d<f32>, sampler: sampler, coords: vec3<f32>, bias: f32) -> vec4<f32> */
     /* fn textureSampleBias(texture: texture_3d<f32>, sampler: sampler, coords: vec3<f32>, bias: f32, @const offset: vec3<i32>) -> vec4<f32> */
     /* fn textureSampleBias(texture: texture_cube<f32>, sampler: sampler, coords: vec3<f32>, bias: f32) -> vec4<f32> */
-    /* fn textureSampleBias(texture: texture_cube_array<f32>, sampler: sampler, coords: vec3<f32>, array_index: i32, bias: f32) -> vec4<f32> */
+    /* fn textureSampleBias<C : iu32>(texture: texture_cube_array<f32>, sampler: sampler, coords: vec3<f32>, array_index: C, bias: f32) -> vec4<f32> */
     /* num overloads */ 8,
     /* overloads */ &kOverloads[152],
   },
@@ -14435,10 +14435,10 @@ constexpr IntrinsicInfo kBuiltins[] = {
     /* [92] */
     /* fn textureSampleCompare(texture: texture_depth_2d, sampler: sampler_comparison, coords: vec2<f32>, depth_ref: f32) -> f32 */
     /* fn textureSampleCompare(texture: texture_depth_2d, sampler: sampler_comparison, coords: vec2<f32>, depth_ref: f32, @const offset: vec2<i32>) -> f32 */
-    /* fn textureSampleCompare(texture: texture_depth_2d_array, sampler: sampler_comparison, coords: vec2<f32>, array_index: i32, depth_ref: f32) -> f32 */
-    /* fn textureSampleCompare(texture: texture_depth_2d_array, sampler: sampler_comparison, coords: vec2<f32>, array_index: i32, depth_ref: f32, @const offset: vec2<i32>) -> f32 */
+    /* fn textureSampleCompare<C : iu32>(texture: texture_depth_2d_array, sampler: sampler_comparison, coords: vec2<f32>, array_index: C, depth_ref: f32) -> f32 */
+    /* fn textureSampleCompare<C : iu32>(texture: texture_depth_2d_array, sampler: sampler_comparison, coords: vec2<f32>, array_index: C, depth_ref: f32, @const offset: vec2<i32>) -> f32 */
     /* fn textureSampleCompare(texture: texture_depth_cube, sampler: sampler_comparison, coords: vec3<f32>, depth_ref: f32) -> f32 */
-    /* fn textureSampleCompare(texture: texture_depth_cube_array, sampler: sampler_comparison, coords: vec3<f32>, array_index: i32, depth_ref: f32) -> f32 */
+    /* fn textureSampleCompare<C : iu32>(texture: texture_depth_cube_array, sampler: sampler_comparison, coords: vec3<f32>, array_index: C, depth_ref: f32) -> f32 */
     /* num overloads */ 6,
     /* overloads */ &kOverloads[202],
   },
@@ -14446,10 +14446,10 @@ constexpr IntrinsicInfo kBuiltins[] = {
     /* [93] */
     /* fn textureSampleCompareLevel(texture: texture_depth_2d, sampler: sampler_comparison, coords: vec2<f32>, depth_ref: f32) -> f32 */
     /* fn textureSampleCompareLevel(texture: texture_depth_2d, sampler: sampler_comparison, coords: vec2<f32>, depth_ref: f32, @const offset: vec2<i32>) -> f32 */
-    /* fn textureSampleCompareLevel(texture: texture_depth_2d_array, sampler: sampler_comparison, coords: vec2<f32>, array_index: i32, depth_ref: f32) -> f32 */
-    /* fn textureSampleCompareLevel(texture: texture_depth_2d_array, sampler: sampler_comparison, coords: vec2<f32>, array_index: i32, depth_ref: f32, @const offset: vec2<i32>) -> f32 */
+    /* fn textureSampleCompareLevel<C : iu32>(texture: texture_depth_2d_array, sampler: sampler_comparison, coords: vec2<f32>, array_index: C, depth_ref: f32) -> f32 */
+    /* fn textureSampleCompareLevel<C : iu32>(texture: texture_depth_2d_array, sampler: sampler_comparison, coords: vec2<f32>, array_index: C, depth_ref: f32, @const offset: vec2<i32>) -> f32 */
     /* fn textureSampleCompareLevel(texture: texture_depth_cube, sampler: sampler_comparison, coords: vec3<f32>, depth_ref: f32) -> f32 */
-    /* fn textureSampleCompareLevel(texture: texture_depth_cube_array, sampler: sampler_comparison, coords: vec3<f32>, array_index: i32, depth_ref: f32) -> f32 */
+    /* fn textureSampleCompareLevel<C : iu32>(texture: texture_depth_cube_array, sampler: sampler_comparison, coords: vec3<f32>, array_index: C, depth_ref: f32) -> f32 */
     /* num overloads */ 6,
     /* overloads */ &kOverloads[208],
   },
@@ -14457,12 +14457,12 @@ constexpr IntrinsicInfo kBuiltins[] = {
     /* [94] */
     /* fn textureSampleGrad(texture: texture_2d<f32>, sampler: sampler, coords: vec2<f32>, ddx: vec2<f32>, ddy: vec2<f32>) -> vec4<f32> */
     /* fn textureSampleGrad(texture: texture_2d<f32>, sampler: sampler, coords: vec2<f32>, ddx: vec2<f32>, ddy: vec2<f32>, @const offset: vec2<i32>) -> vec4<f32> */
-    /* fn textureSampleGrad(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: i32, ddx: vec2<f32>, ddy: vec2<f32>) -> vec4<f32> */
-    /* fn textureSampleGrad(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: i32, ddx: vec2<f32>, ddy: vec2<f32>, @const offset: vec2<i32>) -> vec4<f32> */
+    /* fn textureSampleGrad<C : iu32>(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: C, ddx: vec2<f32>, ddy: vec2<f32>) -> vec4<f32> */
+    /* fn textureSampleGrad<C : iu32>(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: C, ddx: vec2<f32>, ddy: vec2<f32>, @const offset: vec2<i32>) -> vec4<f32> */
     /* fn textureSampleGrad(texture: texture_3d<f32>, sampler: sampler, coords: vec3<f32>, ddx: vec3<f32>, ddy: vec3<f32>) -> vec4<f32> */
     /* fn textureSampleGrad(texture: texture_3d<f32>, sampler: sampler, coords: vec3<f32>, ddx: vec3<f32>, ddy: vec3<f32>, @const offset: vec3<i32>) -> vec4<f32> */
     /* fn textureSampleGrad(texture: texture_cube<f32>, sampler: sampler, coords: vec3<f32>, ddx: vec3<f32>, ddy: vec3<f32>) -> vec4<f32> */
-    /* fn textureSampleGrad(texture: texture_cube_array<f32>, sampler: sampler, coords: vec3<f32>, array_index: i32, ddx: vec3<f32>, ddy: vec3<f32>) -> vec4<f32> */
+    /* fn textureSampleGrad<C : iu32>(texture: texture_cube_array<f32>, sampler: sampler, coords: vec3<f32>, array_index: C, ddx: vec3<f32>, ddy: vec3<f32>) -> vec4<f32> */
     /* num overloads */ 8,
     /* overloads */ &kOverloads[144],
   },
@@ -14470,50 +14470,50 @@ constexpr IntrinsicInfo kBuiltins[] = {
     /* [95] */
     /* fn textureSampleLevel(texture: texture_2d<f32>, sampler: sampler, coords: vec2<f32>, level: f32) -> vec4<f32> */
     /* fn textureSampleLevel(texture: texture_2d<f32>, sampler: sampler, coords: vec2<f32>, level: f32, @const offset: vec2<i32>) -> vec4<f32> */
-    /* fn textureSampleLevel(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: i32, level: f32) -> vec4<f32> */
-    /* fn textureSampleLevel(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: i32, level: f32, @const offset: vec2<i32>) -> vec4<f32> */
+    /* fn textureSampleLevel<C : iu32>(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: C, level: f32) -> vec4<f32> */
+    /* fn textureSampleLevel<C : iu32>(texture: texture_2d_array<f32>, sampler: sampler, coords: vec2<f32>, array_index: C, level: f32, @const offset: vec2<i32>) -> vec4<f32> */
     /* fn textureSampleLevel(texture: texture_3d<f32>, sampler: sampler, coords: vec3<f32>, level: f32) -> vec4<f32> */
     /* fn textureSampleLevel(texture: texture_3d<f32>, sampler: sampler, coords: vec3<f32>, level: f32, @const offset: vec3<i32>) -> vec4<f32> */
     /* fn textureSampleLevel(texture: texture_cube<f32>, sampler: sampler, coords: vec3<f32>, level: f32) -> vec4<f32> */
-    /* fn textureSampleLevel(texture: texture_cube_array<f32>, sampler: sampler, coords: vec3<f32>, array_index: i32, level: f32) -> vec4<f32> */
-    /* fn textureSampleLevel(texture: texture_depth_2d, sampler: sampler, coords: vec2<f32>, level: i32) -> f32 */
-    /* fn textureSampleLevel(texture: texture_depth_2d, sampler: sampler, coords: vec2<f32>, level: i32, @const offset: vec2<i32>) -> f32 */
-    /* fn textureSampleLevel(texture: texture_depth_2d_array, sampler: sampler, coords: vec2<f32>, array_index: i32, level: i32) -> f32 */
-    /* fn textureSampleLevel(texture: texture_depth_2d_array, sampler: sampler, coords: vec2<f32>, array_index: i32, level: i32, @const offset: vec2<i32>) -> f32 */
-    /* fn textureSampleLevel(texture: texture_depth_cube, sampler: sampler, coords: vec3<f32>, level: i32) -> f32 */
-    /* fn textureSampleLevel(texture: texture_depth_cube_array, sampler: sampler, coords: vec3<f32>, array_index: i32, level: i32) -> f32 */
+    /* fn textureSampleLevel<C : iu32>(texture: texture_cube_array<f32>, sampler: sampler, coords: vec3<f32>, array_index: C, level: f32) -> vec4<f32> */
+    /* fn textureSampleLevel<C : iu32>(texture: texture_depth_2d, sampler: sampler, coords: vec2<f32>, level: C) -> f32 */
+    /* fn textureSampleLevel<C : iu32>(texture: texture_depth_2d, sampler: sampler, coords: vec2<f32>, level: C, @const offset: vec2<i32>) -> f32 */
+    /* fn textureSampleLevel<C : iu32>(texture: texture_depth_2d_array, sampler: sampler, coords: vec2<f32>, array_index: C, level: C) -> f32 */
+    /* fn textureSampleLevel<C : iu32>(texture: texture_depth_2d_array, sampler: sampler, coords: vec2<f32>, array_index: C, level: C, @const offset: vec2<i32>) -> f32 */
+    /* fn textureSampleLevel<C : iu32>(texture: texture_depth_cube, sampler: sampler, coords: vec3<f32>, level: C) -> f32 */
+    /* fn textureSampleLevel<C : iu32>(texture: texture_depth_cube_array, sampler: sampler, coords: vec3<f32>, array_index: C, level: C) -> f32 */
     /* fn textureSampleLevel(texture: texture_external, sampler: sampler, coords: vec2<f32>) -> vec4<f32> */
     /* num overloads */ 15,
     /* overloads */ &kOverloads[57],
   },
   {
     /* [96] */
-    /* fn textureStore<S : iu32>(texture: texture_storage_1d<f32_texel_format, write>, coords: S, value: vec4<f32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_2d<f32_texel_format, write>, coords: vec2<S>, value: vec4<f32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_2d_array<f32_texel_format, write>, coords: vec2<S>, array_index: S, value: vec4<f32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_3d<f32_texel_format, write>, coords: vec3<S>, value: vec4<f32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_1d<i32_texel_format, write>, coords: S, value: vec4<i32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_2d<i32_texel_format, write>, coords: vec2<S>, value: vec4<i32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_2d_array<i32_texel_format, write>, coords: vec2<S>, array_index: S, value: vec4<i32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_3d<i32_texel_format, write>, coords: vec3<S>, value: vec4<i32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_1d<u32_texel_format, write>, coords: S, value: vec4<u32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_2d<u32_texel_format, write>, coords: vec2<S>, value: vec4<u32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_2d_array<u32_texel_format, write>, coords: vec2<S>, array_index: S, value: vec4<u32>) */
-    /* fn textureStore<S : iu32>(texture: texture_storage_3d<u32_texel_format, write>, coords: vec3<S>, value: vec4<u32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_1d<f32_texel_format, write>, coords: C, value: vec4<f32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_2d<f32_texel_format, write>, coords: vec2<C>, value: vec4<f32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_2d_array<f32_texel_format, write>, coords: vec2<C>, array_index: C, value: vec4<f32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_3d<f32_texel_format, write>, coords: vec3<C>, value: vec4<f32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_1d<i32_texel_format, write>, coords: C, value: vec4<i32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_2d<i32_texel_format, write>, coords: vec2<C>, value: vec4<i32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_2d_array<i32_texel_format, write>, coords: vec2<C>, array_index: C, value: vec4<i32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_3d<i32_texel_format, write>, coords: vec3<C>, value: vec4<i32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_1d<u32_texel_format, write>, coords: C, value: vec4<u32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_2d<u32_texel_format, write>, coords: vec2<C>, value: vec4<u32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_2d_array<u32_texel_format, write>, coords: vec2<C>, array_index: C, value: vec4<u32>) */
+    /* fn textureStore<C : iu32>(texture: texture_storage_3d<u32_texel_format, write>, coords: vec3<C>, value: vec4<u32>) */
     /* num overloads */ 12,
     /* overloads */ &kOverloads[72],
   },
   {
     /* [97] */
-    /* fn textureLoad<T : fiu32, S : iu32>(texture: texture_1d<T>, coords: S, level: S) -> vec4<T> */
-    /* fn textureLoad<T : fiu32, S : iu32>(texture: texture_2d<T>, coords: vec2<S>, level: S) -> vec4<T> */
-    /* fn textureLoad<T : fiu32, S : iu32>(texture: texture_2d_array<T>, coords: vec2<S>, array_index: S, level: S) -> vec4<T> */
-    /* fn textureLoad<T : fiu32, S : iu32>(texture: texture_3d<T>, coords: vec3<S>, level: S) -> vec4<T> */
-    /* fn textureLoad<T : fiu32, S : iu32>(texture: texture_multisampled_2d<T>, coords: vec2<S>, sample_index: S) -> vec4<T> */
-    /* fn textureLoad<S : iu32>(texture: texture_depth_2d, coords: vec2<S>, level: S) -> f32 */
-    /* fn textureLoad<S : iu32>(texture: texture_depth_2d_array, coords: vec2<S>, array_index: S, level: S) -> f32 */
-    /* fn textureLoad<S : iu32>(texture: texture_depth_multisampled_2d, coords: vec2<S>, sample_index: S) -> f32 */
-    /* fn textureLoad<S : iu32>(texture: texture_external, coords: vec2<S>) -> vec4<f32> */
+    /* fn textureLoad<T : fiu32, C : iu32>(texture: texture_1d<T>, coords: C, level: C) -> vec4<T> */
+    /* fn textureLoad<T : fiu32, C : iu32>(texture: texture_2d<T>, coords: vec2<C>, level: C) -> vec4<T> */
+    /* fn textureLoad<T : fiu32, C : iu32>(texture: texture_2d_array<T>, coords: vec2<C>, array_index: C, level: C) -> vec4<T> */
+    /* fn textureLoad<T : fiu32, C : iu32>(texture: texture_3d<T>, coords: vec3<C>, level: C) -> vec4<T> */
+    /* fn textureLoad<T : fiu32, C : iu32>(texture: texture_multisampled_2d<T>, coords: vec2<C>, sample_index: C) -> vec4<T> */
+    /* fn textureLoad<C : iu32>(texture: texture_depth_2d, coords: vec2<C>, level: C) -> f32 */
+    /* fn textureLoad<C : iu32>(texture: texture_depth_2d_array, coords: vec2<C>, array_index: C, level: C) -> f32 */
+    /* fn textureLoad<C : iu32>(texture: texture_depth_multisampled_2d, coords: vec2<C>, sample_index: C) -> f32 */
+    /* fn textureLoad<C : iu32>(texture: texture_external, coords: vec2<C>) -> vec4<f32> */
     /* num overloads */ 9,
     /* overloads */ &kOverloads[117],
   },
